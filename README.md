@@ -221,9 +221,10 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 
 ## OUTPUT:
+![2022-05-11](https://user-images.githubusercontent.com/75235477/167876145-42086087-97c4-49f4-abab-c061596781e9.png)
 
 
-![2022-05-11](https://user-images.githubusercontent.com/75235477/167875243-ce21dec2-6c71-49dc-82f1-4cb0362109d4.png)
+
 ## SOLUTION JUSTIFICATION
 The Algorithm searches all the nodes for the most eligible node, and then it goes into the deep, to find the next eligible node to reach the desired destination
 
